@@ -1,0 +1,12 @@
+D:\3 R&D\Hospito Project\VS Solution\Master\HBUL\bin\Debug\HBUL.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\HBUL\bin\Debug\HBUL.pdb
+D:\3 R&D\Hospito Project\VS Solution\Master\HBUL\obj\Debug\HBUL.csproj.AssemblyReference.cache
+D:\3 R&D\Hospito Project\VS Solution\Master\HBUL\obj\Debug\HBUL.csproj.CoreCompileInputs.cache
+D:\3 R&D\Hospito Project\VS Solution\Master\HBUL\obj\Debug\HBUL.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\HBUL\obj\Debug\HBUL.pdb
+D:\Repo\MyHospito\Master\HBUL\bin\Debug\HBUL.dll
+D:\Repo\MyHospito\Master\HBUL\bin\Debug\HBUL.pdb
+D:\Repo\MyHospito\Master\HBUL\obj\Debug\HBUL.csproj.AssemblyReference.cache
+D:\Repo\MyHospito\Master\HBUL\obj\Debug\HBUL.csproj.CoreCompileInputs.cache
+D:\Repo\MyHospito\Master\HBUL\obj\Debug\HBUL.dll
+D:\Repo\MyHospito\Master\HBUL\obj\Debug\HBUL.pdb

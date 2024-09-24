@@ -1,0 +1,338 @@
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\iHWinForm.exe
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\iHWinForm.deps.json
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\iHWinForm.runtimeconfig.json
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\iHWinForm.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\iHWinForm.pdb
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Humanizer.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\obj\Debug\net6.0-windows\iHWinForm.csproj.AssemblyReference.cache
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\obj\Debug\net6.0-windows\MsfWinForm.MasterPage.resources
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\obj\Debug\net6.0-windows\MsfWinForm.PatientForm.resources
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\obj\Debug\net6.0-windows\iHWinForm.Properties.Resources.resources
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\obj\Debug\net6.0-windows\iHWinForm.csproj.GenerateResource.cache
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\obj\Debug\net6.0-windows\iHWinForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\obj\Debug\net6.0-windows\iHWinForm.AssemblyInfoInputs.cache
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\obj\Debug\net6.0-windows\iHWinForm.AssemblyInfo.cs
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\obj\Debug\net6.0-windows\iHWinForm.csproj.CoreCompileInputs.cache
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\obj\Debug\net6.0-windows\iHWinForm.csproj.CopyComplete
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\obj\Debug\net6.0-windows\iHWinForm.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\obj\Debug\net6.0-windows\refint\iHWinForm.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\obj\Debug\net6.0-windows\iHWinForm.pdb
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\obj\Debug\net6.0-windows\iHWinForm.genruntimeconfig.cache
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\obj\Debug\net6.0-windows\ref\iHWinForm.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Interop.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.VisualStudio.OLE.Interop.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\BUL.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\DAL.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\BUL.pdb
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\DAL.pdb
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\bin\Debug\net6.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\obj\Debug\net6.0-windows\iHWinForm.ChildrenPages.AddPatientForm.resources
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\obj\Debug\net6.0-windows\iHWinForm.Forms.Doctor.AddNewDoctorForm.resources
+D:\3 R&D\Mishifa\VS Project\MsfWinForm\obj\Debug\net6.0-windows\iHWinForm.Forms.Doctor.ViewDoctorsForm.resources
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\iHWinForm.exe
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\iHWinForm.deps.json
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\iHWinForm.runtimeconfig.json
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\iHWinForm.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\iHWinForm.pdb
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Humanizer.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Interop.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Microsoft.VisualStudio.OLE.Interop.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\BUL.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\DAL.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\BUL.pdb
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\bin\Debug\net6.0-windows\DAL.pdb
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\obj\Debug\net6.0-windows\iHWinForm.csproj.AssemblyReference.cache
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\obj\Debug\net6.0-windows\iHWinForm.Forms.Doctor.AddNewDoctorForm.resources
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\obj\Debug\net6.0-windows\iHWinForm.Forms.Doctor.ViewDoctorsForm.resources
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\obj\Debug\net6.0-windows\iHWinForm.ChildrenPages.AddPatientForm.resources
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\obj\Debug\net6.0-windows\MsfWinForm.PatientForm.resources
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\obj\Debug\net6.0-windows\MsfWinForm.MasterPage.resources
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\obj\Debug\net6.0-windows\iHWinForm.Properties.Resources.resources
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\obj\Debug\net6.0-windows\iHWinForm.csproj.GenerateResource.cache
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\obj\Debug\net6.0-windows\iHWinForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\obj\Debug\net6.0-windows\iHWinForm.AssemblyInfoInputs.cache
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\obj\Debug\net6.0-windows\iHWinForm.AssemblyInfo.cs
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\obj\Debug\net6.0-windows\iHWinForm.csproj.CoreCompileInputs.cache
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\obj\Debug\net6.0-windows\iHWinForm.csproj.CopyComplete
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\obj\Debug\net6.0-windows\iHWinForm.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\obj\Debug\net6.0-windows\refint\iHWinForm.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\obj\Debug\net6.0-windows\iHWinForm.pdb
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\obj\Debug\net6.0-windows\iHWinForm.genruntimeconfig.cache
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\MsfWinForm\obj\Debug\net6.0-windows\ref\iHWinForm.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\iHWinForm.exe
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\iHWinForm.deps.json
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\iHWinForm.runtimeconfig.json
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\iHWinForm.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\iHWinForm.pdb
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Humanizer.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\iHWinForm.csproj.AssemblyReference.cache
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\iHWinForm.Forms.Doctor.AddNewDoctorForm.resources
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\iHWinForm.Forms.Doctor.ViewDoctorsForm.resources
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\iHWinForm.ChildrenPages.AddPatientForm.resources
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\MsfWinForm.PatientForm.resources
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\MsfWinForm.MasterPage.resources
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\iHWinForm.Properties.Resources.resources
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\iHWinForm.csproj.GenerateResource.cache
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\iHWinForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\iHWinForm.AssemblyInfoInputs.cache
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\iHWinForm.AssemblyInfo.cs
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\iHWinForm.csproj.CoreCompileInputs.cache
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\iHWinForm.csproj.CopyComplete
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\iHWinForm.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\refint\iHWinForm.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\iHWinForm.pdb
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\iHWinForm.genruntimeconfig.cache
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\ref\iHWinForm.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\IHDAL.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\IHDAL.pdb
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\IHWinForm.exe
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\IHWinForm.deps.json
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\IHWinForm.runtimeconfig.json
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\IHWinForm.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\IHWinForm.pdb
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Humanizer.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\IHDAL.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\bin\Debug\net6.0-windows\IHDAL.pdb
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\IHWinForm.csproj.AssemblyReference.cache
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\iHWinForm.Forms.Doctor.AddNewDoctorForm.resources
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\iHWinForm.Forms.Doctor.ViewDoctorsForm.resources
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\iHWinForm.ChildrenPages.AddPatientForm.resources
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\MsfWinForm.PatientForm.resources
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\MsfWinForm.MasterPage.resources
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\IHWinForm.Properties.Resources.resources
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\IHWinForm.csproj.GenerateResource.cache
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\IHWinForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\IHWinForm.AssemblyInfoInputs.cache
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\IHWinForm.AssemblyInfo.cs
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\IHWinForm.csproj.CoreCompileInputs.cache
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\IHWinForm.csproj.CopyComplete
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\IHWinForm.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\refint\IHWinForm.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\IHWinForm.pdb
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\IHWinForm.genruntimeconfig.cache
+D:\3 R&D\Hospito Project\VS Solution\Master\DeskWF\obj\Debug\net6.0-windows\ref\IHWinForm.dll

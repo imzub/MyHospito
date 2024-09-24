@@ -1,0 +1,12 @@
+D:\3 R&D\Hospito Project\VS Solution\Master\IHDAL\bin\Debug\IHDAL.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\IHDAL\bin\Debug\IHDAL.pdb
+D:\3 R&D\Hospito Project\VS Solution\Master\IHDAL\obj\Debug\HDAL.csproj.AssemblyReference.cache
+D:\3 R&D\Hospito Project\VS Solution\Master\IHDAL\obj\Debug\HDAL.csproj.CoreCompileInputs.cache
+D:\3 R&D\Hospito Project\VS Solution\Master\IHDAL\obj\Debug\IHDAL.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\IHDAL\obj\Debug\IHDAL.pdb
+D:\Repo\MyHospito\Master\IHDAL\bin\Debug\IHDAL.dll
+D:\Repo\MyHospito\Master\IHDAL\bin\Debug\IHDAL.pdb
+D:\Repo\MyHospito\Master\IHDAL\obj\Debug\HDAL.csproj.AssemblyReference.cache
+D:\Repo\MyHospito\Master\IHDAL\obj\Debug\HDAL.csproj.CoreCompileInputs.cache
+D:\Repo\MyHospito\Master\IHDAL\obj\Debug\IHDAL.dll
+D:\Repo\MyHospito\Master\IHDAL\obj\Debug\IHDAL.pdb

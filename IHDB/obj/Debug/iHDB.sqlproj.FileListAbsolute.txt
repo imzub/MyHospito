@@ -1,0 +1,32 @@
+C:\Users\Zubair Shaikh\source\repos\Database1\Database1\bin\Debug\iHDB.dacpac
+C:\Users\Zubair Shaikh\source\repos\Database1\Database1\obj\Debug\iHDB.sqlproj.AssemblyReference.cache
+C:\Users\Zubair Shaikh\source\repos\Database1\Database1\obj\Debug\Database1.dll
+C:\Users\Zubair Shaikh\source\repos\Database1\Database1\obj\Debug\Database1.pdb
+C:\Users\Zubair Shaikh\source\repos\Database1\Database1\bin\Debug\Database1.dll
+C:\Users\Zubair Shaikh\source\repos\Database1\Database1\bin\Debug\Database1.pdb
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\IHDB\bin\Debug\iHDB.dacpac
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\IHDB\bin\Debug\Database1.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\IHDB\bin\Debug\Database1.pdb
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\IHDB\obj\Debug\iHDB.sqlproj.AssemblyReference.cache
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\IHDB\obj\Debug\Database1.dll
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\IHDB\obj\Debug\Database1.pdb
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\IHDB\obj\Debug\Model.xml
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\IHDB\obj\Debug\refactor.xml
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\IHDB\obj\Debug\postdeploy.sql
+D:\3 R&D\iHospito Project\VS Solution\MishifaClinicMaster\IHDB\obj\Debug\predeploy.sql
+D:\3 R&D\iHospito Project\VS Solution\Master\IHDB\bin\Debug\Database1.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\IHDB\bin\Debug\Database1.pdb
+D:\3 R&D\iHospito Project\VS Solution\Master\IHDB\obj\Debug\iHDB.sqlproj.AssemblyReference.cache
+D:\3 R&D\iHospito Project\VS Solution\Master\IHDB\obj\Debug\Database1.dll
+D:\3 R&D\iHospito Project\VS Solution\Master\IHDB\obj\Debug\Database1.pdb
+D:\3 R&D\iHospito Project\VS Solution\Master\IHDB\bin\Debug\HospitoDb.dacpac
+D:\3 R&D\Hospito Project\VS Solution\Master\IHDB\bin\Debug\HospitoDb.dacpac
+D:\3 R&D\Hospito Project\VS Solution\Master\IHDB\bin\Debug\Database1.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\IHDB\bin\Debug\Database1.pdb
+D:\3 R&D\Hospito Project\VS Solution\Master\IHDB\obj\Debug\IHDB.sqlproj.AssemblyReference.cache
+D:\3 R&D\Hospito Project\VS Solution\Master\IHDB\obj\Debug\Model.xml
+D:\3 R&D\Hospito Project\VS Solution\Master\IHDB\obj\Debug\refactor.xml
+D:\3 R&D\Hospito Project\VS Solution\Master\IHDB\obj\Debug\postdeploy.sql
+D:\3 R&D\Hospito Project\VS Solution\Master\IHDB\obj\Debug\predeploy.sql
+D:\3 R&D\Hospito Project\VS Solution\Master\IHDB\obj\Debug\Database1.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\IHDB\obj\Debug\Database1.pdb

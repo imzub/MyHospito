@@ -1,0 +1,39 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Diseases] (Table)
+       [dbo].[Doctor] (Table)
+       [dbo].[Excercises] (Table)
+       [dbo].[Fees] (Table)
+       [dbo].[IllnessSeverity] (Table)
+       [dbo].[Medicines] (Table)
+       [dbo].[Patient] (Table)
+       [dbo].[patientDiseases] (Table)
+       [dbo].[patientSymptons] (Table)
+       [dbo].[PatientTreatment] (Table)
+       [dbo].[PatientVisit] (Table)
+       [dbo].[Symptoms] (Table)
+       [dbo].[Treatment] (Table)
+       Foreign Key: unnamed constraint on [dbo].[patientDiseases] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[patientDiseases] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[patientDiseases] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[patientSymptons] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[patientSymptons] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[patientSymptons] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[PatientTreatment] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[PatientTreatment] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[PatientTreatment] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[PatientVisit] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[PatientVisit] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[PatientVisit] (Foreign Key)
+
+** Supporting actions
