@@ -1,0 +1,75 @@
+D:\3 R&D\iHospito Project\VS Solution\Master\HospitoDesktop\bin\Debug\HospitoDesktop.exe.config
+D:\3 R&D\iHospito Project\VS Solution\Master\HospitoDesktop\bin\Debug\HospitoDesktop.exe
+D:\3 R&D\iHospito Project\VS Solution\Master\HospitoDesktop\bin\Debug\HospitoDesktop.pdb
+D:\3 R&D\iHospito Project\VS Solution\Master\HospitoDesktop\obj\Debug\HospitoDesktop.csproj.AssemblyReference.cache
+D:\3 R&D\iHospito Project\VS Solution\Master\HospitoDesktop\obj\Debug\HospitoDesktop.Properties.Resources.resources
+D:\3 R&D\iHospito Project\VS Solution\Master\HospitoDesktop\obj\Debug\HospitoDesktop.csproj.GenerateResource.cache
+D:\3 R&D\iHospito Project\VS Solution\Master\HospitoDesktop\obj\Debug\HospitoDesktop.csproj.CoreCompileInputs.cache
+D:\3 R&D\iHospito Project\VS Solution\Master\HospitoDesktop\obj\Debug\HospitoDesktop.exe
+D:\3 R&D\iHospito Project\VS Solution\Master\HospitoDesktop\obj\Debug\HospitoDesktop.pdb
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\bin\Debug\HospitoDesktop.exe.config
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\bin\Debug\HospitoDesktop.exe
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\bin\Debug\HospitoDesktop.pdb
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\obj\Debug\HospitoDesktop.csproj.AssemblyReference.cache
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\obj\Debug\HospitoDesktop.Properties.Resources.resources
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\obj\Debug\HospitoDesktop.csproj.GenerateResource.cache
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\obj\Debug\HospitoDesktop.csproj.CoreCompileInputs.cache
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\obj\Debug\HospitoDesktop.exe
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\obj\Debug\HospitoDesktop.pdb
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\obj\Debug\HospitoDesktop.Main.resources
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\bin\Debug\IHDAL.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\bin\Debug\IHDAL.pdb
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\obj\Debug\HospitoDesktop.Forms.NewPatientForm.NewPatient.resources
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\obj\Debug\HospitoDesktop.Forms.ViewPatient.ViewPatients.resources
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\bin\Debug\HBUL.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\bin\Debug\HBUL.pdb
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\obj\Debug\HospitoDesktop.Forms.Doctor.ViewDoctor.resources
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\obj\Debug\HospitoDesktop.Forms.NewDoctor.NewDoctor.resources
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\obj\Debug\HospitoDesktop.Forms.Appointment.PatientVisitAddUpdate.resources
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\obj\Debug\HospitoDesktop.Forms.Appointment.ViewPatientVisit.resources
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\bin\Debug\BouncyCastle.Crypto.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\bin\Debug\itextsharp.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\bin\Debug\itextsharp.xml
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\bin\Debug\EPPlus.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\bin\Debug\EPPlus.Interfaces.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\bin\Debug\EPPlus.System.Drawing.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\bin\Debug\System.ComponentModel.Annotations.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\bin\Debug\EPPlus.xml
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\obj\Debug\HospitoDesktop.Forms.Report.SettingFileManagement.resources
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\obj\Debug\HospitoDesktop.Forms.Report.ReportGraphForm.resources
+D:\3 R&D\Hospito Project\VS Solution\Master\HospitoDesktop\obj\Debug\HospitoD.C7ECBD03.Up2Date
+D:\Repo\MyHospito\Master\HospitoDesktop\bin\Debug\HospitoDesktop.exe.config
+D:\Repo\MyHospito\Master\HospitoDesktop\bin\Debug\HospitoDesktop.exe
+D:\Repo\MyHospito\Master\HospitoDesktop\bin\Debug\HospitoDesktop.pdb
+D:\Repo\MyHospito\Master\HospitoDesktop\bin\Debug\BouncyCastle.Crypto.dll
+D:\Repo\MyHospito\Master\HospitoDesktop\bin\Debug\EPPlus.dll
+D:\Repo\MyHospito\Master\HospitoDesktop\bin\Debug\EPPlus.Interfaces.dll
+D:\Repo\MyHospito\Master\HospitoDesktop\bin\Debug\EPPlus.System.Drawing.dll
+D:\Repo\MyHospito\Master\HospitoDesktop\bin\Debug\HBUL.dll
+D:\Repo\MyHospito\Master\HospitoDesktop\bin\Debug\IHDAL.dll
+D:\Repo\MyHospito\Master\HospitoDesktop\bin\Debug\itextsharp.dll
+D:\Repo\MyHospito\Master\HospitoDesktop\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Repo\MyHospito\Master\HospitoDesktop\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Repo\MyHospito\Master\HospitoDesktop\bin\Debug\HBUL.pdb
+D:\Repo\MyHospito\Master\HospitoDesktop\bin\Debug\IHDAL.pdb
+D:\Repo\MyHospito\Master\HospitoDesktop\bin\Debug\EPPlus.xml
+D:\Repo\MyHospito\Master\HospitoDesktop\bin\Debug\itextsharp.xml
+D:\Repo\MyHospito\Master\HospitoDesktop\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Repo\MyHospito\Master\HospitoDesktop\obj\Debug\HospitoDesktop.csproj.AssemblyReference.cache
+D:\Repo\MyHospito\Master\HospitoDesktop\obj\Debug\HospitoDesktop.Forms.Appointment.PatientVisitAddUpdate.resources
+D:\Repo\MyHospito\Master\HospitoDesktop\obj\Debug\HospitoDesktop.Forms.Appointment.ViewPatientVisit.resources
+D:\Repo\MyHospito\Master\HospitoDesktop\obj\Debug\HospitoDesktop.Forms.NewDoctor.NewDoctor.resources
+D:\Repo\MyHospito\Master\HospitoDesktop\obj\Debug\HospitoDesktop.Forms.Doctor.ViewDoctor.resources
+D:\Repo\MyHospito\Master\HospitoDesktop\obj\Debug\HospitoDesktop.Forms.NewPatientForm.NewPatient.resources
+D:\Repo\MyHospito\Master\HospitoDesktop\obj\Debug\HospitoDesktop.Forms.ViewPatient.ViewPatients.resources
+D:\Repo\MyHospito\Master\HospitoDesktop\obj\Debug\HospitoDesktop.Forms.Report.ReportGraphForm.resources
+D:\Repo\MyHospito\Master\HospitoDesktop\obj\Debug\HospitoDesktop.Forms.Report.SettingFileManagement.resources
+D:\Repo\MyHospito\Master\HospitoDesktop\obj\Debug\HospitoDesktop.Main.resources
+D:\Repo\MyHospito\Master\HospitoDesktop\obj\Debug\HospitoDesktop.Properties.Resources.resources
+D:\Repo\MyHospito\Master\HospitoDesktop\obj\Debug\HospitoDesktop.csproj.GenerateResource.cache
+D:\Repo\MyHospito\Master\HospitoDesktop\obj\Debug\HospitoDesktop.csproj.CoreCompileInputs.cache
+D:\Repo\MyHospito\Master\HospitoDesktop\obj\Debug\HospitoD.C7ECBD03.Up2Date
+D:\Repo\MyHospito\Master\HospitoDesktop\obj\Debug\HospitoDesktop.exe
+D:\Repo\MyHospito\Master\HospitoDesktop\obj\Debug\HospitoDesktop.pdb

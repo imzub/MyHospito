@@ -1,0 +1,20 @@
+D:\3 R&D\Hospito Project\VS Solution\Master\IHDB\bin\Debug\HospitoDb.dacpac
+D:\3 R&D\Hospito Project\VS Solution\Master\IHDB\bin\Debug\Database1.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\IHDB\bin\Debug\Database1.pdb
+D:\3 R&D\Hospito Project\VS Solution\Master\IHDB\obj\Debug\HDB.sqlproj.AssemblyReference.cache
+D:\3 R&D\Hospito Project\VS Solution\Master\IHDB\obj\Debug\Database1.dll
+D:\3 R&D\Hospito Project\VS Solution\Master\IHDB\obj\Debug\Database1.pdb
+D:\3 R&D\Hospito Project\VS Solution\Master\IHDB\obj\Debug\Model.xml
+D:\3 R&D\Hospito Project\VS Solution\Master\IHDB\obj\Debug\refactor.xml
+D:\3 R&D\Hospito Project\VS Solution\Master\IHDB\obj\Debug\postdeploy.sql
+D:\3 R&D\Hospito Project\VS Solution\Master\IHDB\obj\Debug\predeploy.sql
+D:\Repo\MyHospito\Master\IHDB\bin\Debug\HospitoDb.dacpac
+D:\Repo\MyHospito\Master\IHDB\bin\Debug\Database1.dll
+D:\Repo\MyHospito\Master\IHDB\bin\Debug\Database1.pdb
+D:\Repo\MyHospito\Master\IHDB\obj\Debug\HDB.sqlproj.AssemblyReference.cache
+D:\Repo\MyHospito\Master\IHDB\obj\Debug\Model.xml
+D:\Repo\MyHospito\Master\IHDB\obj\Debug\refactor.xml
+D:\Repo\MyHospito\Master\IHDB\obj\Debug\postdeploy.sql
+D:\Repo\MyHospito\Master\IHDB\obj\Debug\predeploy.sql
+D:\Repo\MyHospito\Master\IHDB\obj\Debug\Database1.dll
+D:\Repo\MyHospito\Master\IHDB\obj\Debug\Database1.pdb

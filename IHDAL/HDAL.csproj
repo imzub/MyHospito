@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8EF67B84-20A8-4FF7-8F01-A8C2ECCCFABA}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>IHDAL</RootNamespace>
+    <AssemblyName>IHDAL</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\HConstants.cs" />
+    <Compile Include="Common\HelpingMethods.cs" />
+    <Compile Include="CRUDManager\CDoctor.cs" />
+    <Compile Include="CRUDManager\CFees.cs" />
+    <Compile Include="CRUDManager\CFileManagement.cs" />
+    <Compile Include="CRUDManager\CPatient.cs" />
+    <Compile Include="CRUDManager\CVisitAppointment.cs" />
+    <Compile Include="DBManager\Connection.cs" />
+    <Compile Include="DBManager\CustomQuery.cs" />
+    <Compile Include="DBManager\Enum.cs" />
+    <Compile Include="DBManager\Keys.cs" />
+    <Compile Include="DBManager\PatientContext.cs" />
+    <Compile Include="DBManager\SqlQueries.cs" />
+    <Compile Include="Models\Diseases.cs" />
+    <Compile Include="Models\Doctor.cs" />
+    <Compile Include="Models\Excercises.cs" />
+    <Compile Include="Models\FeesModel.cs" />
+    <Compile Include="Models\FileLocationModel.cs" />
+    <Compile Include="Models\IllnessSeverity.cs" />
+    <Compile Include="Models\Medicines.cs" />
+    <Compile Include="Models\PatientDiseases.cs" />
+    <Compile Include="Models\Patients.cs" />
+    <Compile Include="Models\PatientSymptons.cs" />
+    <Compile Include="Models\PatientTreatment.cs" />
+    <Compile Include="Models\PatientVisit.cs" />
+    <Compile Include="Models\Symptoms.cs" />
+    <Compile Include="Models\Treatment.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
